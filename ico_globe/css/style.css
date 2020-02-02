@@ -1531,24 +1531,37 @@ circle {
 }
 
 
-
 .label-l1{
-  fill: red;
-  font: 1.0em !important;
+  fill: green;
+  /*font: 1.0em !important;*/
   stroke-width:1.5;
 }
 
 .label-l2{
-  fill: #828200;
-  font: 1.0em !important;
+  fill: red;
+  /*font: 1.0em !important;*/
   stroke-width:1.5;
 }
 
 .label-l3{
-  fill: blue;
-  font: 1.0em !important;
+  fill: #828200;
+  /*font: 1.0em !important;*/
   stroke-width:1.5;
 }
+
+.label-l4{
+  fill: blue;
+  /*font: 1.0em !important;*/
+  stroke-width:1.5;
+}
+
+.label-l5{
+  fill: black;
+ /* font: 1.0em !important;*/
+  stroke-width:1.5;
+}
+
+
 
 .noclicks {
   pointer-events:none;
@@ -1566,6 +1579,16 @@ circle {
   cursor: pointer;
   
 }
+
+.label {
+  font: 1.0em !important;
+  
+  opacity: 1;
+  cursor: pointer;
+  
+}
+
+ 
 
 
 /* The switch - the box around the slider */
@@ -1656,17 +1679,22 @@ input:checked + .slider:before {
   font-size: 16px;
   width: 30px;
 }
-
  input:checked +#c1 {
+  background-color: green;
+}
+ input:checked +#c2 {
   background-color: red;
 }
-
-input:checked +#c2 {
+ input:checked +#c3 {
   background-color: yellow;
 }
 
-input:checked +#c3 {
+input:checked +#c4 {
   background-color: blue;
+}
+
+input:checked +#c5 {
+  background-color: black;
 }
 
 .globe-display svg{

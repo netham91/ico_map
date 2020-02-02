@@ -58,6 +58,8 @@ function convertJson(){
         point.properties.l1 = item.l1;
         point.properties.l2 = item.l2;
         point.properties.l3 = item.l3;
+        point.properties.l4 = item.l4;
+        point.properties.l5 = item.l5;
 
       
 
@@ -92,7 +94,24 @@ function convertJson(){
 
           mapData.features.push(point3);
         }
+         if(item.l4 == "1"){
 
+          const point4 = JSON.parse(JSON.stringify(point));
+
+          point4.properties.class = "label label-l4";
+           point4.geometry.coordinates = [ parseFloat(item.longitude)- shiftLat, parseFloat(item.latitude)-shiftLat];
+
+          mapData.features.push(point4);
+        }
+         if(item.l5 == "1"){
+
+          const point5 = JSON.parse(JSON.stringify(point));
+
+          point5.properties.class = "label label-l5";
+           point5.geometry.coordinates = [ parseFloat(item.longitude)- shiftLat, parseFloat(item.latitude)-shiftLat];
+
+          mapData.features.push(point5);
+        }
 
         
 
@@ -192,7 +211,7 @@ function ready(error, world, places) {
        increaseFont() 
     position_labels();
   
-  	
+  	  initSwitches();
   
   	refresh();
   
@@ -233,7 +252,6 @@ function displayDetails(d){
 
 
 }
-
 
 function position_labels() {
   var centerPos = proj.invert([width/2,height/2]);
@@ -311,14 +329,21 @@ function dragged() {
   refresh();
 }
 
+
+function initSwitches(){
+  console.log("Toggle switch");
+  $(".switch-box input").toggle();
+}
+
 $(document).ready(function(){
 
 
+  
 })
 
 
 function increaseFont(){
-  for(k = 1 ; k < 4 ; k++)
+  for(k = 1 ; k < 6 ; k++)
 $(".label-l"+k).css("font-size","1em") ;
 
 }

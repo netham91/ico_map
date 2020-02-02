@@ -1,12 +1,53 @@
-name,id,country,l1,l2,l3,latitude,longitude
-Andorra (INAF),20,Andorra,,,1,42.5063,1.5218
-Argentina (CNV),32,Argentina,,,1,-34.6058,-58.3708
-Australia (ASIC),36,Australia,1,1,1,-35.4735,149.0124
-Australian Government Treasury,36,Australia,,1,,-33.8688,151.2093
-Austria (FMA),40,Austria,,1,,48.2068,16.3749
-Belgium (FSMA),56,Belgium,,1,1,50.8503,4.3517
-Brazil (CVM),76,Brazil,,,1,-22.9068,-43.1729
-Canada (AMF),124,Canada,,,1,45.5017,-73.5673
-Canada (ASC),124,Canada,,,1,43.6532,-79.3832
-Canada (CSA),124,Canada,,1,1,46.8139,-71.208
-Dubai (DFSA),784,United Arab Emirates,,,1,25.2048,55.2708
+name,latitude,longitude,l1,l2,l3,l4,l5
+IOSCO ,40.4168,-3.7038,,,1,1,
+Abu Dhabi (FSRA),24.4539,54.3773,,,1,,
+Andorra (INAF),42.546245,1.601554,,,,1,
+Argentina (CNV),-38.416097,-63.616672,,,,1,
+Australia (ASIC),-25.274398,133.775136,1,1,1,1,
+Australian Government Treasury,-33.8688,151.2093,,,1,,
+Austria (FMA),47.516231,14.550072,,,1,,
+Belgium (FSMA),50.503887,4.469936,,,1,1,
+Brazil (CVM),-14.235004,-51.92528,,,,1,
+Canada (AMF),56.130366,-106.346771,1,,,1,
+Canada (ASC),43.6532,-79.3832,,,,1,
+Canada (OSC),46.8139,-71.208,1,,,,
+Canada (CSA),25.2048,55.2708,,,1,1,
+China (CSRC),35.86166,104.195397,,,,,1
+Dubai (DFSA),25.2048,55.2708,,,,1,
+European Union (ESMA),48.8566,2.3522,,,1,1,
+France (AMF),46.227638,2.213749,1,,1,,
+Germany (BaFin),51.165691,10.451526,,,1,1,
+Gibraltar (GFSC),36.137741,-5.345374,1,,,1,
+Guernsey (GFSC),49.465691,-2.585278,,,,1,
+Hong Kong (SFC),22.396428,114.109497,,1,1,1,
+Ireland (CBI),53.41291,-8.24389,,,,1,
+Isle of Man (FSA),54.236107,-4.548056,,,1,,
+Israel ,31.046051,34.851612,1,,,,
+Italy (CONSOB),41.87194,12.56738,1,1,,,
+Japan (FSA),36.204824,138.252924,1,,,1,
+Jersey (JFSC),49.214439,-2.13125,1,,,1,
+Kenya (CMA),-0.023559,37.906193,,,,1,
+Kuwait (CMA),29.31166,47.481766,,,,1,
+Liechtenstein (FMA),47.166,9.555373,,,,1,
+Macau (AMCM),22.198745,113.543873,,,,,
+Malaysia (SC),4.210484,101.975766,1,,,1,
+Malta (MFSA,35.937496,14.375416,1,,1,,
+Mexico (CNBV),23.634501,-102.552784,,,,1,
+Netherlands (AFM),52.132633,5.291266,1,,,1,
+New Zealand (FMA),-40.900557,174.885971,,,1,,
+Norway (FSA),60.472024,8.468946,,,,1,
+Poland (KNF),51.919438,19.145136,,,,1,
+Portugal (CMVM),39.399872,-8.224454,,,1,1,
+Republic of Korea (FSC),35.9078,127.7669,1,,,,
+Republic of Serbia (SC),44.0165,21.0059,1,,,1,
+Russia (BoR),61.52401,105.318756,,,,1,
+Saudi Arabia (CMA),23.885942,45.079162,,,,1,
+Singapore (MAS),1.352083,103.819836,,1,1,1,
+Slovenia (SMA),46.151241,14.995463,1,,,1,
+South Africa (FSCA),-30.559482,22.937506,,,1,,
+Spain (CNMV),40.463667,-3.74922,,,1,1,
+Switzerland (FINMA),46.818188,8.227512,,1,1,1,
+Thailand (SEC),15.870032,100.992541,1,,,1,
+United Arab Emirates (SCA),23.424076,53.847818,,,,1,
+United Kingdom (FCA),55.378051,-3.435973,,,1,1,
+US SEC ,47.7511,-120.7401,,1,1,1,
