@@ -1,0 +1,46 @@
+name,id,country,l1,l2,l3
+Andorra (INAF),20,Andorra,,,1
+Argentina (CNV),32,Argentina,,,1
+Australia (ASIC),36,Australia,1,1,1
+Australian Government Treasury,36,Australia,,1,
+Austria (FMA),40,Austria,,1,
+Belgium (FSMA),56,Belgium,,1,1
+Brazil (CVM),76,Brazil,,,1
+Canada (AMF),124,Canada,,,1
+Canada (ASC),124,Canada,,,1
+Canada (CSA),124,Canada,,1,1
+Dubai (DFSA),784,United Arab Emirates,,,1
+European Union (ESMA),,,,1,1
+France (AMF),250,France,,1,
+Germany (BaFin),276,Germany,,1,1
+Gibraltar (GFSC),292,Gibraltar,,,1
+Guernsey (GFSC),831,Guernsey,,,1
+Hong Kong (SFC),344,Hong Kong,1,1,1
+Ireland (CBI),372,Ireland,,,1
+Isle of Man (FSA),833,Isle of Man,,1,
+Italy (CONSOB),380,Italy,1,,
+Japan (FSA),392,Japan,,,1
+Jersey (JFSC),832,Jersey,,,1
+Kenya (CMA),404,Kenya,,,1
+Kuwait (CMA),414,Kuwait,,,1
+Liechtenstein (FMA),438,Liechtenstein,,,1
+Malaysia (SC),458,Malaysia,,,1
+Malta (MFSA,470,Malta,,1,
+Mexico (CNBV),484,Mexico,,,1
+Netherlands (AFM),528,Netherlands,,,1
+New Zealand (FMA),554,New Zealand,,1,
+Norway (FSA),578,Norway,,,1
+Poland (KNF),616,Poland,,,1
+Portugal (CMVM),620,Portugal,,1,1
+Republic of Serbia (SC),688,Serbia,,,1
+Russia (BoR),643,Russian Federation,,,1
+Saudi Arabia (CMA),682,Saudi Arabia,,,1
+Singapore (MAS),702,Singapore,1,1,1
+Slovenia (SMA),705,Slovenia,,,1
+South Africa (FSCA),710,South Africa,,1,
+Spain (CNMV),724,Spain,,1,1
+Switzerland (FINMA),756,Switzerland,1,1,1
+Thailand (SEC),764,Thailand,,,1
+United Arab Emirates (SCA),784,United Arab Emirates,,,1
+United Kingdom (FCA),826,United Kingdom,,1,1
+US SEC ,840,United States,1,1,1
