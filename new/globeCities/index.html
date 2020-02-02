@@ -6,13 +6,14 @@
  	fill: white;
   opacity: .5;
   stroke: #4f2291;
+ stroke-width: 1.5;
   stroke-opacity: 1;
 }
 
 .countries path {
   stroke: #4f2291;  
   stroke-linejoin: round;
-  stroke-width:.5;
+  stroke-width: 2.5;
   fill: #4f2291;
   opacity: .1;
   pointer-events:none;
@@ -66,7 +67,7 @@ circle {
 }
 
 .labels {
-  font: 0.7em sans-serif;
+  font: 1.0em sans-serif;
   fill: red;
   opacity: 1;
   cursor: pointer;
@@ -135,13 +136,13 @@ input:checked + .slider:before {
 }
 
 .switch-box{
-  margin-left: 20%;
+  margin-left: 25%;
   margin-right: 30px;
   position: absolute;
 }
 
 .switch2{
-  margin-left: 40%;
+  margin-left: 44%;
 }
 
 .switch3{
@@ -226,6 +227,7 @@ input:checked +#c3 {
     color: #214B85;
 "> Primary Market <br> ( Action Classification) </h2>
   
+  <div class="switch-container"> 
 <div class="switch-box switch1">
   <span class="switch-text"> Regulatory Action</span>
 <label class="switch">
@@ -253,11 +255,20 @@ input:checked +#c3 {
 </div>
 
 
+<div style="
+    margin: auto;
+    margin-left: 35%;
+    margin-top: 4%;
+    position: absolute;
+"> Toggle the switches to turn off/on classifications</div>
+</div>
+
+
 
 <div class="data-display" style="
     position: absolute;
     width: 200px;
-    height: 80%;
+    height: 0%;
     text-align: center;
     margin-top: 100px;
     margin-right: 0px;
@@ -501,15 +512,25 @@ function displayDetails(d){
   html += "<div class='dbox box-"+n+"'> <h3> "+d.properties.name+" </h3>";
   
   //find match
+
+  k = 0;
   detailsData.forEach(function(item,index,arr){
     if(d.properties.name.trim() === item.name.trim()  ){
+      k++;
       html += "<a href='"+item.url+"'' target='_blank' class='doclink'> "+item.description +" </a> <br/>" 
     }
   })
 
   html += "</div>";
+  height = k*50+100
+  $(".data-display").animate({
+    opacity: '0.5',
+    height: height+'px',
+  }, 500, function(){
+ 
+  } );
 
-  $(".data-display").html(html);
+    $(".data-display").html(html); 
 
 
 }
@@ -601,7 +622,7 @@ $(document).on('change', ".switch-box input ", function() {
   
  
   if(fontS == "0px"){
-    $(l).css("font-size","8px") 
+    $(l).css("font-size","1em") 
      console.log("grow",l,fontS);
   }
   else
