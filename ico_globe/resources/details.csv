@@ -1,30 +1,198 @@
-name,description,url
-Andorra (INAF),Statement on ICOs,https://www.iosco.org/library/ico-statements/Andorra%20-%20INAF%20- %20Statement%20on%20Initial%20Coin%20Offerings.pdf
-Argentina (CNV),Alert Regarding ICOs,https://www.cnv.gov.ar/SitioWeb/Prensa/Post/1204/1204-alerta-al-publico- inversor-sobre-ofertas-iniciales-de-monedas-virtuales-o-tokens
-Argentina (CNV),Warning Regarding ICOs,https://www.iosco.org/library/ico-statements/Argentina%20-%20CNV%20- %20Oferta%20Inicial%20de%20Monedas%20Virtuales%20o%20Tokens.pdf
-Australia (ASIC),Warning: Initial coin offerings (ICOs) ,https://www.moneysmart.gov.au/investing/investment-warnings/initial-coin- offerings-icos 
-Australia (ASIC),Information Sheet: Initial coin offerings and crypto-assets,https://asic.gov.au/regulatory-resources/digital-transformation/initial-coin- offerings-and-crypto-assets/ 
-Australia (ASIC),Issues Paper: Initial Coin Offerings (The Treasury),https://treasury.gov.au/sites/default/files/2019-03/c2019-t353604- Issues_Paper-1.pdf 
-Australia (ASIC),Media Release: ASIC takes action on misleading or deceptive conduct in ICOs,https://www.asic.gov.au/about-asic/news-centre/find-a-media- release/2018-releases/18-122mr-asic-takes-action-on-misleading-or- deceptive-conduct-in-icos/ 
+name,description,url,type
+Abu Dhabi (FSRA),"Guidance: Regulation of Initial Coin/Token Offerings and Virtual Currencies
+under the Financial Services and Markets Regulations -",https://www.adgm.com/-/media/project/adgm/legal-framework/documents/guidance-and-policy/guidance-for-applicants/fsra-guidance/guidance-icos-and-crypto-assets_20180625_v11.pdf,statement/actions
+Andorra (INAF),Statement on ICOs,https://www.iosco.org/library/ico-statements/Andorra%20-%20INAF%20- %20Statement%20on%20Initial%20Coin%20Offerings.pdf,statement/actions
+Argentina (CNV),Alert Regarding ICOs,https://www.cnv.gov.ar/SitioWeb/Prensa/Post/1204/1204-alerta-al-publico- inversor-sobre-ofertas-iniciales-de-monedas-virtuales-o-tokens,statement/actions
+Argentina (CNV),Warning Regarding ICOs,https://www.iosco.org/library/ico-statements/Argentina%20-%20CNV%20- %20Oferta%20Inicial%20de%20Monedas%20Virtuales%20o%20Tokens.pdf,statement/actions
+Australia (ASIC),Warning: Initial coin offerings (ICOs) ,https://www.moneysmart.gov.au/investing/investment-warnings/initial-coin- offerings-icos ,statement/actions
+Australia (ASIC),Information Sheet: Initial coin offerings and crypto-assets,https://asic.gov.au/regulatory-resources/digital-transformation/initial-coin- offerings-and-crypto-assets/ ,statement/actions
+Australia (ASIC),Issues Paper: Initial Coin Offerings (The Treasury),https://treasury.gov.au/sites/default/files/2019-03/c2019-t353604- Issues_Paper-1.pdf ,statement/actions
+Australia (ASIC),Media Release: ASIC takes action on misleading or deceptive conduct in ICOs,https://www.asic.gov.au/about-asic/news-centre/find-a-media- release/2018-releases/18-122mr-asic-takes-action-on-misleading-or- deceptive-conduct-in-icos/ ,statement/actions
 Australia (ASIC),"Media Release: ASIC acts against misleading Initial Coin Offerings and 
 crypto-asset funds targeted at retail investors
-",https://asic.gov.au/about- asic/news-centre/find-a-media-release/2018-releases/18-274mr-asic-acts- against-misleading-initial-coin-offerings-and-crypto-asset-funds-targeted-at- retail-investors/ 
+",https://asic.gov.au/about- asic/news-centre/find-a-media-release/2018-releases/18-274mr-asic-acts- against-misleading-initial-coin-offerings-and-crypto-asset-funds-targeted-at- retail-investors/ ,statement/actions
 Austria (FMA),ICOs,"https://www.fma.gv.at/en/cross-sectoral-topics/fintech- 
 navigator/initial-coin-offerings/ 
-"
-Belgium (FSMA),Communication: Initial Coin Offerings (ICOs),https://www.iosco.org/library/ico-statements/Belgium%20-%20FSMA%20- %20Initial%20Coin%20Offerings.pdf 
-Brazil (CVM) ,Brazil (CVM) – Statement on Initial Coin Offering (ICO),https://www.iosco.org/library/ico-statements/Brazil%20-%20CVM%20- %20Statement%20on%20Initial%20Coin%20Offering%20(ICO).pdf 
+",statement/actions
+Belgium (FSMA),Communication: Initial Coin Offerings (ICOs),https://www.iosco.org/library/ico-statements/Belgium%20-%20FSMA%20- %20Initial%20Coin%20Offerings.pdf ,statement/actions
+Brazil (CVM) ,Brazil (CVM) – Statement on Initial Coin Offering (ICO),https://www.iosco.org/library/ico-statements/Brazil%20-%20CVM%20- %20Statement%20on%20Initial%20Coin%20Offering%20(ICO).pdf ,statement/actions
 Canada (AMF),"AMF cautions investors, issuers and sponsors -Initial cryptocurrency or token 
-offerings ",https://lautorite.qc.ca/en/general-public/media-centre/news/fiche- dactualites/initial-cryptocurrency-or-token-offerings/ 
-Canada (AMF), Initial cryptocurrency or token offering (ICO),https://lautorite.qc.ca/en/general-public/investments/bitcoin-and-other-virtual- currencies/initial-cryptocurrency-or-token-offering-ico/ 
+offerings ",https://lautorite.qc.ca/en/general-public/media-centre/news/fiche- dactualites/initial-cryptocurrency-or-token-offerings/ ,statement/actions
+Canada (AMF), Initial cryptocurrency or token offering (ICO),https://lautorite.qc.ca/en/general-public/investments/bitcoin-and-other-virtual- currencies/initial-cryptocurrency-or-token-offering-ico/ ,statement/actions
 "Canada (ASC)
 ",Cryptocurrencies,"http://www.checkfirst.ca/emerging- 
 trends/cryptocurrencies-and-bitcoin-2/ 
-"
-Canada (CSA),Cryptocurrency Offerings,https://www.osc.gov.on.ca/documents/en/Securities- Category4/csa_20170824_cryptocurrency-offerings.pdf 
+",statement/actions
+Canada (CSA),Cryptocurrency Offerings,https://www.osc.gov.on.ca/documents/en/Securities- Category4/csa_20170824_cryptocurrency-offerings.pdf ,statement/actions
 Canada (CSA),Securities Law Implications for Offerings of Tokens,"https://www.securities- administrators.ca/uploadedFiles/Industry_Resources/2018juin11-46-308-avis- acvm-en.pdf 
-"
+",statement/actions
 Canada (CSA),What is an ICO?,"https://www.securities- 
 administrators.ca/investortools.aspx?id=1697 
-"
-Dubai (DFSA) ,DFSA Issues General Investor Statement on Cryptocurrencies,https://www.iosco.org/library/ico-statements/Dubai%20-%20DFSA%20- %20General%20Investor%20Statement%20on%20Cryptocurrencies.pdf
+",statement/actions
+Dubai (DFSA),DFSA Issues General Investor Statement on Cryptocurrencies,https://www.iosco.org/library/ico-statements/Dubai%20-%20DFSA%20- %20General%20Investor%20Statement%20on%20Cryptocurrencies.pdf ,statement/actions
+European Union (ESMA),ESMA alerts investors to the high risks of Initial Coin Offerings (ICOs) -,https://www.esma.europa.eu/sites/default/files/library/esma50-157-829_ico_statement_investors.pdf,statement/actions
+European Union (ESMA),"ESMA alerts firms involved in Initial Coin Offerings (ICOs) to the need to
+meet relevant regulatory requirements -",https://www.esma.europa.eu/sites/default/files/library/esma50-157-828_ico_statement_firms.pdf,statement/actions
+European Union (ESMA),"Crypto-Assets Need Common EU-Wide Approach to Ensure Investor
+Protection -",https://www.esma.europa.eu/press-news/esma-news/crypto-assets-need-common-eu-wide-approach-ensure-investor-protection,statement/actions
+European Union (ESMA),Advice – Initial Coin Offerings and Crypto-Assets,https://www.esma.europa.eu/file/49978/download?token=56LqdNMN,statement/actions
+European Union (ESMA),Annex – Legal qualification of crypto-assets – survey to NCAs -,https://www.esma.europa.eu/file/49979/download?token=Us159BTo,statement/actions
+France (AMF),AMF public consultation on Initial Coin Offerings (ICOs) - ,https://www.amf-france.org/technique/multimedia?docId=workspace://SpacesStore/a2b267b3-2d94-,statement/actions
+France (AMF),"Summary of replies to the public consultation on Initial Coin offerings
+(ICOs) and update on the UNICORN Programme ",https://www.amf-france.org/technique/multimedia?docId=workspace://SpacesStore/a9e0ae85-f015-,statement/actions
+France (AMF),French ICOs – A New Method of Financing?,https://www.amf-france.org/technique/multimedia?docId=workspace://SpacesStore/27604d2f-6f2b-,statement/actions
+Germany (BaFin),Consumer warning: the risks of initial coin offerings ,https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Meldung/2017/meldung_171109_ICOs_en.html?nn=8054452,statement/actions
+Germany (BaFin),Initial coin offerings: High risks for consumers ,https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Fachartikel/2017/fa_bj_1711_ICO_en.html?nn=8249098,statement/actions
+Germany (BaFin),"Initial coin offerings: BaFin publishes advisory letter on the classification of
+tokens as financial instruments ",https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Fachartikel/2018/fa_bj_1803_ICOs_en.html?nn=8249098,statement/actions
+Germany (BaFin),"Advisory letter (WA) – Supervisory classification of tokens or
+cryptocurrencies underlying “initial coin offerings” (ICOs) as financial
+instruments in the field of securities supervision ",https://www.bafin.de/SharedDocs/Downloads/EN/Merkblatt/WA/dl_hinweisschreiben_einordnung_ICOs_en.pdf?__blob=publicationFile&v=2,statement/actions
+Gibraltar (GFSC),Statement on Initial Coin offerings ,http://www.gfsc.gi/news/statement-on-initial-coin-offerings-250,statement/actions
+Guernsey (GFSC),"Virtual currencies, crypto currencies and Initial Coin offerings (“ICO”)",https://www.gfsc.gg/news/article/virtual-currencies-crypto-currencies-and-initial-coin-offerings-ico,statement/actions
+Hong Kong (SFC),Statement on Initial Coin offerings ,https://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-initial-coin-offerings.html,statement/actions
+Hong Kong (SFC),SFC warns of cryptocurrency risks ,https://www.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=18PR13,statement/actions
+Hong Kong (SFC),SFC’s regulatory action halts ICO to Hong Kong public,https://www.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=18PR29,statement/actions
+Hong Kong (SFC),Statement on Security Token Offerings ,https://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-security-token-offerings.html,statement/actions
+Ireland (CBI),Alert on Initial Coin Offerings,https://www.centralbank.ie/consumer-hub/consumer-notices/alert-on-initial-coin-offerings,statement/actions
+Israel (ISA),Warning to Investors Regarding Cryptocurrency Investments ,http://www.isa.gov.il/sites/ISAEng/Pages/unregulated-investments.aspx,statement/actions
+Isle of Man (FSA),Initial Coin Offerings – Questions and Answers -,https://www.iomfsa.im/consumer-material/initial-coin-offerings-questions-and-answers/,statement/actions
+Isle of Man (FSA),"Questions and Answers in respect of persons seeking to issue Convertible
+Virtual Currency (such as via an Initial Coin Offering) in or from the Isle of
+Man ",https://www.iomfsa.im/media/2365/icoguidanceforapplicants.pdf,statement/actions
+Italy (CONSOB),CONSOB resolution no. 20786: Prohibition of Togacoin Ltd. ICO -,http://www.consob.it/web/area-pubblica/bollettino/documenti/hide/interdittivi/divieto/2019/d20786.htm?hkeywords=20786&docid=0&page=0&hits=1&nav=true,statement/actions
+Italy (CONSOB),"CONSOB resolution no. 20813 – Prohibition of the public offer and sale of
+“trading packages” by Eagle Bit Trade",http://www.consob.it/web/area-pubblica/bollettino/documenti/hide/interdittivi/divieto/2019/d20813.htm?hkeywords=20813&docid=0&page=0&hits=1&nav=true,statement/actions
+Italy (CONSOB),CONSOB resolution no. 20814 – Prohibition of CryptoForce Ltd. ICO,http://www.consob.it/web/area-pubblica/bollettino/documenti/hide/interdittivi/divieto/2019/d20814.htm,statement/actions
+Italy (CONSOB),"CONSOB resolution no. 20815 – Prohibition of advertisement activity
+carried on by Italian individual on his Facebook page",http://www.consob.it/web/area-pubblica/bollettino/documenti/hide/interdittivi/divieto/2019/d20815.htm,statement/actions
+Italy (CONSOB),"CONSOB resolution no. 20844 – Prohibition of the public offer and sale of
+“Green Earth certificates” (“Crypto Green Earth Project”)",http://www.consob.it/web/area-pubblica/bollettino/documenti/hide/interdittivi/divieto/2019/d20844.htm?hkeywords=20844&docid=0&page=0&hits=1&nav=true,statement/actions
+Italy (CONSOB),"CONSOB resolution no. 20845 – Prohibition of the public offer and sale of
+the Bitsurge token ",http://www.consob.it/web/area-pubblica/bollettino/documenti/hide/interdittivi/divieto/2019/d20845.htm?hkeywords=20845&docid=0&page=0&hits=1&nav=true,statement/actions
+Italy (CONSOB),CONSOB resolution no. 21023 – Prohibition of ECB I and ECB S ICO ,http://www.consob.it/web/area-pubblica/bollettino/documenti/hide/interdittivi/divieto/2019/d21023.htm,statement/actions
+Italy (CONSOB),CONSOB resolution no. 21024 – Prohibition of the Liracoin ICO,http://www.consob.it/web/area-pubblica/bollettino/documenti/hide/interdittivi/divieto/2019/d21024.htm,statement/actions
+Japan (FSA),Initial Coin Offerings (ICOs) – User and business operator warning about the risks of ICOs,https://www.fsa.go.jp/policy/virtual_currency/07.pdf,statement/actions
+Jersey (JFSC),JFSC warning on Initial Coin Offerings,https://www.jerseyfsc.org/media/1612/jfsc-warning-initial-coin-offerings.pdf,statement/actions
+Jersey (JFSC),Statement on regulation of Initial Coin Offerings (ICOs) in Jersey,https://www.jerseyfsc.org/media/1719/2018-02-02_statement_on_regulatory_treatment_of_icos.pdf,statement/actions
+Kenya (CMA),Cautionary Statement on Initial Coin Offering,https://www.iosco.org/library/ico-statements/Kenya%20-%20CMA%20-%20Cautionary%20Statement%20on%20Initial%20Coin%20Offerings.pdf,statement/actions
+Kenya (CMA),CMA warns against Kenicoin initial coin offering and trading -,https://www.cma.or.ke/index.php?option=com_content&view=article&id=509:cma-warns-against-kenicoin-initial-coin-offering-and-trading&catid=12&Itemid=207,statement/actions
+Kuwait (CMA),Announcement from the Capital Market Authority (CMA) Regarding the Investment in Digital Currencies and Initial Offerings of Digital Assets,https://www.cma.gov.kw/en/web/cma/cma-board-releases/-/cmaboardreleases/detail/614074,statement/actions
+Liechtenstein (FMA),Initial Coin Offering,https://www.iosco.org/library/ico-statements/Liechtenstein%20-%20FMA%20-%20Faktenblatt,statement/actions
+Malaysia (SC),Media Statement on Initial Coin Offerings,https://www.sc.com.my/resources/media-releases-and-announcements/media-statement-on-initial-coin-offerings,statement/actions
+Malaysia (SC),Joint Statement on Regulation of Digital Assets in Malaysia -,https://www.sc.com.my/resources/media-releases-and-announcements/joint-statement-on-regulation-of-digital-assets-in-malaysia,statement/actions
+Malaysia (SC),Cautionary Statement on Initial Coin Offerings,https://www.sc.com.my/resources/media-releases-and-announcements/cautionary-statement-on-initial-coin-offerings,statement/actions
+Malaysia (SC),SC Cautions Investors Against Unauthorized Initial Coin Offerings and Digital Asset Exchanges,https://www.sc.com.my/resources/media-releases-and-announcements/sc-cautions-investors-against-unauthorised-initial-coin-offerings-and-digital-asset-exchanges,statement/actions
+Malta (MFSA),Guidance Note to the Public Regarding Cryptocurrency Scams,https://www.mfsa.mt/wp-content/uploads/2019/04/Guidance-Note-English-FINAL.pdf,statement/actions
+Mexico (CNBV),Financial authorities warns of risks associated with use of virtual assets and participation in investment schemes known as The Initial Coin Offering or “Initial Coin Offerings”,https://www.banxico.org.mx/publicaciones-y-prensa/miscelaneos/%7B6D5AAB8C-3BFA-0A8B-5EDD-7EDC04E1931C%7D.pdf,statement/actions
+Netherlands (AFM),AFM warns of major risks at Initial Coin Offerings,https://www.afm.nl/nl-nl/nieuws/2017/nov/risico-ico,statement/actions
+Netherlands (AFM),Initial Coin Offerings (ICOs): serious risks,https://www.afm.nl/en/professionals/onderwerpen/ico,statement/actions
+Netherlands (AFM),Risks of ICOs,https://www.afm.nl/nl-nl/consumenten/themas/waarschuwing/fintech/ico,statement/actions
+New Zealand (FMA),FMA commentary on ICOs and cryptocurrencies,https://www.fma.govt.nz/news-and-resources/media-releases/fma-commentary-on-icos-and-cryptocurrencies/,statement/actions
+New Zealand (FMA),Cryptocurrencies (Industry Guidance),https://www.fma.govt.nz/compliance/cryptocurrencies/,statement/actions
+New Zealand (FMA),Cryptocurrencies (Investor Guidance),https://www.fma.govt.nz/investors/ways-to-invest/cryptocurrencies/,statement/actions
+New Zealand (FMA),Fair dealing and initial coin offers -,https://www.fma.govt.nz/compliance/cryptocurrencies/fair-dealing-and-initial-coin-offers/,statement/actions
+Norway (FSA),Initial Coin Offerings: Warning to Investors and Enterprises,https://www.finanstilsynet.no/markedsadvarsler/2017/initial-coin-offerings-icoer---advarsel-til-investorer-og-foretak/,statement/actions
+Poland (KNF),The KNF’s statement on selling so-called coins or tokens (Initial Token Offerings – ITOs or Initial Coin offerings – ICOs),https://www.knf.gov.pl/knf/en/komponenty/img/The_KNFs_statement_on_selling_socalled_coins_or_tokens_ICO_60238.pdf,statement/actions
+Portugal (CMVM),CMVM warns investors on Initial Coin Offerings (ICOs),https://www.cmvm.pt/en/Comunicados/Comunicados/Pages/20180119.aspx,statement/actions
+Portugal (CMVM),Questions and Answers for Investors on Cryptoassets -,https://www.cmvm.pt/en/Investor_area/Faq/Pages/QAs-Crypoassets_investors.aspx,statement/actions
+Portugal (CMVM),Questions and Answers for Entities on Cryptoassets -,https://www.cmvm.pt/en/Investor_area/Faq/Pages/QAs-Cryptoassets_entities.aspx,statement/actions
+Portugal (CMVM),CMVM Press Release on Bityond cryptocurrency,https://www.cmvm.pt/en/Comunicados/Comunicados/Pages/20180517mc.aspx,statement/actions
+Republic of Serbia (SC),Caution urged for investing in cryptoassets -,http://www.sec.gov.rs/index.php/en/education/investor-education/articles/559-caution-urged-for-investing-in-crypto-assets,statement/actions
+Russia (BoR),Use of private virtual currencies (cryptocurrencies) -,http://www.cbr.ru/eng/press/pr/?file=05092017_160022eng2017-09-05t15_59_51.htm#highlight=initial%7Ccoin%7Coffering,statement/actions
+Saudi Arabia (CMA),"CMA Warns Investors Against Digital Currency Investment and Its Involvement of High Monitoring, Security and Market Risks",https://cma.org.sa/en/MediaCenter/PR/Pages/DC1.aspx,statement/actions
+Singapore (MAS),A Guide to Digital Token Offerings,https://www.mas.gov.sg/-/media/MAS/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Guide-to-Digital-Tokens-Offering-last-updated-on-5-April-2019.pdf,statement/actions
+Singapore (MAS),MAS clarifies regulatory position on the offer of digital tokes in Singapore,https://www.mas.gov.sg/news/media-releases/2017/mas-clarifies-regulatory-position-on-the-offer-of-digital-tokens-in-singapore,statement/actions
+Singapore (MAS),Consumer Advisory on Investment Schemes Involving Digital Tokens (Including Virtual Currencies),https://www.mas.gov.sg/news/media-releases/2017/consumer-advisory-on-investment-schemes-involving-digital-tokens,statement/actions
+Singapore (MAS),MAS warns Digital Token Exchanges and ICO Issuer,https://www.mas.gov.sg/news/media-releases/2018/mas-warns-digital-token-exchanges-and-ico-issuer,statement/actions
+Singapore (MAS),"“Crypto Tokens: The Good, The Bad, and The Ugly” – Speech by Mr. Ravi Menon, Managing Director, MAS, at Money 20/20, 15 March 2018 -",https://www.mas.gov.sg/news/speeches/2018/crypto-tokens-the-good-the-bad-and-the-ugly,statement/actions
+Singapore (MAS),MAS halts Securities Token Offering for regulatory breach,https://www.mas.gov.sg/news/media-releases/2019/mas-halts-securities-token-offering-for-regulatory-breach,statement/actions
+Slovenia (SMA),Warning with regard to purchasing storing and investing in virtual currencies,"https://www.iosco.org/library/ico-statements/Slovenia%20-%20SMA%20-%20Warning%20concerning%20purchasing,%20storing%20and%20investing%20in%20virtual%20currencies.pdf",statement/actions
+South Africa (FSCA),Virtual Currencies/Crypto-currencies -,https://www.resbank.co.za/RegulationAndSupervision/FinancialSurveillanceAndExchangeControl/FAQs/Pages/VirtualCurrenciesCryptocurrencies.aspx,statement/actions
+Spain (CNMV),Joint press statement by CNMV and Banco de España on “cryptocurrencies” and initial coin offerings” (ICOs) -,https://www.iosco.org/library/ico-statements/Spain%20-%20CNMV%20and%20Banco%20de%20Espana%20-%20Joint%20Statement%20on%20Cryptocurrencies%20and%20ICOs.pdf,statement/actions
+Spain (CNMV),CNMV considerations on cryptocurrencies and ICOs addressed to market professionals -,https://www.iosco.org/library/ico-statements/Spain%20-%20CNMV%20-%20Statement%20on%20Cryptocurrencies%20and%20ICOs%20for%20Market%20Professionals.pdf,statement/actions
+Spain (CNMV),Criteria in relation to ICOs,http://cnmv.es/DocPortal/Fintech/CriteriosICOsEN.pdf,statement/actions
+Spain (CNMV),Questions and Answers intended for FinTech companies on activities and services that may be related to the CNMV,https://www.cnmv.es/docportal/Legislacion/FAQ/QAsFinTech_EN.pdf,statement/actions
+Switzerland (FINMA),FINMA is investigating ICO procedures,https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/8news/medienmitteilungen/20170929-mm-ico.pdf?la=en,statement/actions
+Switzerland (FINMA),Regulatory treatment of initial coin offerings -,https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/myfinma/4dokumentation/finma-aufsichtsmitteilungen/20170929-finma-aufsichtsmitteilung-04-2017.pdf?la=en&hash=9DCC5C1FF8F61C9AA9412FAD2D7C70533F341EF2,statement/actions
+Switzerland (FINMA),FINMA closes down coin providers and issues warning about fake cryptocurrencies,https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/8news/medienmitteilungen/20170919-mm-coin-anbieter_de.pdf?la=en,statement/actions
+Switzerland (FINMA),Guidelines for enquiries regarding the regulatory framework for initial coin offerings (ICOs),https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/myfinma/1bewilligung/fintech/wegleitung-ico.pdf?la=en,statement/actions
+Switzerland (FINMA),FINMA Roundtable on ICOs,https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/myfinma/1bewilligung/fintech/20180321_ppt-ico-veranstaltung_en.pdf?la=en,statement/actions
+Switzerland (FINMA),FINMA ascertains illegal activity by envion AG -,https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/8news/medienmitteilungen/2019/03/20190327-mm-envion.pdf?la=en,statement/actions
+Switzerland (FINMA),FINMA publishes “stable coin” guidelines,https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/8news/medienmitteilungen/2019/09/20190911-mm-stable-coins.pdf?la=en,statement/actions
+Switzerland (FINMA),Supplement to the guidelines for enquiries regarding the regulatory framework for initial coin offerings (ICOs),https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/myfinma/1bewilligung/fintech/wegleitung-stable-coins.pdf?la=en,statement/actions
+Thailand (SEC),SEC Thailand’s Viewpoint on ICO,https://www.sec.or.th/th/pages/marketdata/viewpoint-20170914-ico.aspx,statement/actions
+United Arab Emirates (SCA),Public Warning Statement on Initial Coin Offerings (ICO),https://www.finma.ch/en/~/media/finma/dokumente/dokumentencenter/myfinma/1bewilligung/fintech/wegleitung-stable-coins.pdf?la=en,statement/actions
+United Kingdom (FCA),"Cryptoassets Taskforce: final report (HM Treasury, FCA, & Bank of England)",https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/752070/cryptoassets_taskforce_final_report_final_web.pdf,statement/actions
+United Kingdom (FCA),Consumer warning about the risks of Initial Coin Offerings (ICOs) -,https://www.fca.org.uk/news/statements/initial-coin-offerings,statement/actions
+United Kingdom (FCA),Guidance on Cryptoassets (Policy Statement) -,https://www.fca.org.uk/publication/policy/ps19-22.pdf,statement/actions
+United States (CFTC),Written Testimony of Chairman J. Christopher Giancarlo before the Senate Banking Committee,https://www.cftc.gov/PressRoom/SpeechesTestimony/opagiancarlo37,statement/actions
+United States (CFTC),"Written Testimony of Chairman J. Christopher Giancarlo before the U.S. Senate Agriculture, Nutrition, and Forestry Committee",https://www.cftc.gov/PressRoom/SpeechesTestimony/opagiancarlo38#P119_27583,statement/actions
+United States (CFTC),Written Testimony of Daniel S. Gorfine before the U.S. House Committee on Agriculture,https://www.cftc.gov/PressRoom/SpeechesTestimony/opagorfine1#_ftn22,statement/actions
+United States (CFTC),Customer Advisory: Understand the Risks of Virtual Currency Trading -,https://www.cftc.gov/sites/default/files/idc/groups/public/@customerprotection/documents/file/customeradvisory_urvct121517.pdf,statement/actions
+United States (CFTC), A CFTC Primer on Virtual Currencies -,https://www.cftc.gov/sites/default/files/idc/groups/public/documents/file/labcftc_primercurrencies100417.pdf,statement/actions
+United States (CFTC),A Primer on Smart Contracts,https://www.cftc.gov/sites/default/files/2018-11/LabCFTC_PrimerSmartContracts112718_0.pdf,statement/actions
+United States (CFTC),A Primer on Smart Contracts - ,https://www.cftc.gov/sites/default/files/2018-11/LabCFTC_PrimerSmartContracts112718_0.pdf,statement/actions
+United States (CFTC),Customer Advisory: Use Caution When Buying Digital Coins or Tokens,https://www.cftc.gov/sites/default/files/2018-07/customeradvisory_tokens0718.pdf,statement/actions
+United States (CFTC),"CFTC Charges Randall Crater, Mark Gillespie, and My Big Coin Pay, Inc. with Fraud and Misappropriation in Ongoing Virtual Currency Scam:",https://www.cftc.gov/PressRoom/PressReleases/pr7678-18,statement/actions
+United States (CFTC),"CFTC Charges Randall Crater, Mark Gillespie, and My Big Coin Pay, Inc. with Fraud and Misappropriation in Ongoing Virtual Currency Scam - 2",https://www.cftc.gov/PressRoom/PressReleases/7820-18,statement/actions
+United States (CFTC),CFTC Charges Multiple Individuals and Companies with Operating a Fraudulent Scheme Involving Binary Options and a Virtual Currency Known as ATM Coin,https://www.cftc.gov/PressRoom/PressReleases/7714-18,statement/actions
+US SEC,Investor Bulletin: Initial Coin Offerings,https://www.investor.gov/additional-resources/news-alerts/alerts-bulletins/investor-bulletin-initial-coin-offerings,statement/actions
+US SEC,Release No. 81207 – Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934: The DAO -,https://www.sec.gov/litigation/investreport/34-81207.pdf,statement/actions
+US SEC,Spotlight on Initial Coin Offerings (ICOs) - ,https://www.sec.gov/ICO,statement/actions
+US SEC,ICO – HoweyCoins -,https://www.investor.gov/howeycoins,statement/actions
+US SEC,Statement on “Framework for ‘Investment Contract” Analysis of Digital Assets” -,https://www.sec.gov/news/public-statement/statement-framework-investment-contract-analysis-digital-assets,statement/actions
+US SEC,Framework for “Investment Contract” Analysis of Digital Assets,https://www.sec.gov/corpfin/framework-investment-contract-analysis-digital-assets,statement/actions
+US SEC,"No-Action Letter: TurnKey Jet, Inc. -",https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1.htm,statement/actions
+US SEC,"No-Action Letter: Pocketful of Quarters, Inc.",https://www.sec.gov/corpfin/pocketful-quarters-inc-072519-2a1,statement/actions
+US SEC,Statement on Digital Asset Securities Issuance and Trading,https://www.sec.gov/news/public-statement/digital-asset-securites-issuuance-and-trading,statement/actions
+US SEC,Chairman’s Testimony on Virtual Currencies: The Roles of the SEC and CFTC,https://www.sec.gov/news/testimony/testimony-virtual-currencies-oversight-role-us-securities-and-exchange-commission,statement/actions
+US SEC,Digital Asset Transactions: When Howey Met Gary (Plastic),https://www.sec.gov/news/speech/speech-hinman-061418,statement/actions
+US SEC,Remarks before the AICPA National Conference on Banks & Savings Institutions,https://www.sec.gov/news/speech/speech-bricker-2018-09-17#_ftnref19,statement/actions
+US SEC,"Leaders of CFTC, FinCEN, and SEC Issue Joint Statement on Activities Involving Digital Assets",https://www.sec.gov/news/public-statement/cftc-fincen-secjointstatementdigitalassets,statement/actions
+US SEC,SEC Halts Alleged $1.7 Billion Unregistered Digital Token Offering -,https://www.sec.gov/news/press-release/2019-212,statement/actions
+US SEC,SEC Orders Blockchain Company to Pay $24 Million Penalty for Unregistered ICO,https://www.sec.gov/news/press-release/2019-202,statement/actions
+US SEC,SEC Charges Founder and CEO of Purported Online Adult Entertainment Marketplace with Fraudulent ICO Scheme,https://www.sec.gov/litigation/litreleases/2019/lr24607.htm,statement/actions
+US SEC, SEC Charges ICO Incubator and Founder for Unregistered Offering and Unregistered Broker Activity,https://www.sec.gov/news/press-release/2019-181,statement/actions
+US SEC,SEC Charges Dallas Company and Its Founders with Defrauding Investors in Unregistered Offering and Operating Unregistered Digital Asset Exchange,https://www.sec.gov/news/press-release/2019-164,statement/actions
+US SEC,SEC Charges Blockchain Company for $6.3 Million Unregistered ICO,https://www.sec.gov/enforce/33-10671-s,statement/actions
+US SEC,SEC Sues Alleged Perpetrator of Fraudulent Pyramid Scheme Promising Investors Cryptocurrency Riches,https://www.sec.gov/news/press-release/2019-74,statement/actions
+US SEC,SEC Obtains Emergency Order Halting Alleged Diamond-Related ICO Scheme Targeting Hundreds of Investors,https://www.sec.gov/news/press-release/2019-72,statement/actions
+US SEC,SEC Exposes Two Initial Coin Offerings Purportedly Backed by Real Estate and Diamonds,https://www.sec.gov/news/press-release/2017-185-0,statement/actions
+Abu Dhabi (FSRA),Guidance: Regulation of Crypto Asset Activities in ADGM -,http://adgm.complinet.com/net_file_store/new_rulebooks/g/u/Guidance_Regulation_of_Crypto_Asset_Activities_in_ADGM_140519.pdf,regulatory
+Abu Dhabi (FSRA),Guidance: Regulation of Digital Securities Activity in ADGM -,https://www.adgm.com/-/media/project/adgm/legal-framework/documents/guidance-and-policy/guidance-for-applicants/fsra-guidance/guidance-on-regulation-of-digital-securities-activity-in-adgm-v01-050919.pdf,regulatory
+Canada (AMF),CSA Regulatory Sandbox Decision: Impak Finance Inc. – Exemptive Relief re Initial Coin Offering,https://www.securities-administrators.ca/uploadedFiles/Industry_Resources/DE_ImpakFinanceIncEng.pdf,regulatory
+Canada (OSC),CSA Regulatory Sandbox Decision: ZED Network (Inc.) – Exemptive Relief re Distribution of Tokens,https://www.securities-administrators.ca/uploadedFiles/Industry_Resources/DE_ZEDNetworkInc.pdf,regulatory
+China (CSRC),Joint Announcement on Preventing Financial Risks from Initial Coin Offerings,https://www.iosco.org/library/ico-statements/China%20-%20CSRC%20et%20al%20-%20%E5%85%B3%E4%BA%8E%E9%98%B2%E8%8C%83%E4%BB%A3%E5%B8%81%E5%8F%91%E8%A1%8C%E8%9E%8D%E8%B5%84%E9%A3%8E%E9%99%A9%E7%9A%84%E5%85%AC%E5%91%8A.pdf,regulatory
+France (AMF),Towards a new regime for crypto-assets in France,https://www.amf-france.org/technique/rendition-pdf?url=https%3A%2F%2Fwww.amf-france.org%2FmagnoliaPublic%2Famf%2Fen_US%2FReglementation%2FDossiers-thematiques%2FFintech%2FVers-un-nouveau-regime-pour-les-crypto-actifs-en-France%3Fxtcr%3D1%26isSearch%3Dtrue%26lastSearchPage%3Dhttps%253A%252F%252Fwww.amf-france.org%252FmagnoliaPublic%252Famf%252Fen_US%252FResultat-de-recherche%253FisSearch%253Dtrue%2526DOC_TYPE%253D%2526TEXT%253Dcrypto-assets%2526REFERENCE%253D%2526RG_NUM_ARTICLE%253D%2526RG_LIVRE%253D%2526DATE_PUBLICATION%253D%2526DATE_OBSOLESCENCE%253D%2526DATE_VIGUEUR_DEBUT%253D%2526DATE_VIGUEUR_FIN%253D%2526LANGUAGE%253Den%2526INCLUDE_OBSOLESCENT%253Dfalse%2526ORDER_BY%253DPERTINENCE%2526typologie%253DTypologie%25253Bsourcetree1%25253B%25252FamfContenuEditorialSimple%25252F%25253BamfContenuEditorialSimple%26xtmc%3Dcrypto-assets&fileName=Site+internet+de+l%27AMF.pdf&isVO=false,regulatory
+France (AMF),"Act No. 2019-486 of May 22, 2019 (PACTE – Action Plan for Business Growth and Transformation) -",https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038496102&categorieLien=id,regulatory
+France (AMF),"Speech by Robert Ophele, AMF Chairman – “Innovation and regulation: The French approach to crypto” – 3rd Annual Fintech Conference – Brussels – 26 February 2019",https://www.amf-france.org/en_US/Actualites/Prises-de-paroles/Archives/Annee-2016?xtcr=4&isSearch=true&docId=workspace%3A%2F%2FSpacesStore%2F21e89c29-562d-4b73-b72f-bc4aacd524aa&lastSearchPage=https%3A%2F%2Fwww.amf-france.org%2FmagnoliaPublic%2Famf%2Fen_US%2FResultat-de-recherche%3FPAGE_NUMBER%3D1%26LANGUAGE%3Den%26valid_recherche%3DOK%26isSearch%3Dtrue%26simpleSearch%3Dtrue%26TEXT%3Dcrypto%26&xtmc=crypto&docVersion=1.0,regulatory
+Gibraltar (GFSC),HM Government of Gibraltar and the Gibraltar Financial Services Commission announce plans for token legislation,http://www.gfsc.gi/news/hm-government-of-gibraltar-and-the-gibraltar-financial-services-commission-announce-plans-for-token-legislation-272,regulatory
+Israel (ISA),The Committee to Examine the Regulation of Decentralized Cryptographic Currency Issuance to the Public,http://www.isa.gov.il/sites/ISAEng/1489/1513/Documents/FinalCryptoReportENG.pdf,regulatory
+Italy (CONSOB),Initial Coin Offerings and Crypto-Assets Exchanges – Call for evidence,http://www.consob.it/documents/46180/46181/doc_disc_20190319_en.pdf/e981f8a9-e370-4456-8f67-111e460610f0,regulatory
+Japan (FSA),Report from Study Group on Virtual Currency Exchange Services,https://www.fsa.go.jp/en/refer/councils/virtual-currency/20181221-1.pdf,regulatory
+Japan (FSA),Summary of Report from Study Group on Virtual Currency Exchange Services,https://www.fsa.go.jp/en/refer/councils/virtual-currency/20181221-2.pdf,regulatory
+Japan (FSA),Amended Act on the Settlement of Funds and the Financial Instruments and Exchange Act,https://www.fsa.go.jp/common/diet/index.html,regulatory
+Jersey (JFSC),Press release: JFSC issues ICO guidance note -,https://www.jerseyfsc.org/media/2003/2018-07-12_jfsc-issues-ico-guidance-note.pdf,regulatory
+Jersey (JFSC),Guidance Note: Application Process for Issuers of Initial Coin Offerings (ICOs) -,https://www.jerseyfsc.org/media/1999/gn-ico-july-2018.pdf,regulatory
+Macau (AMCM),Alert to Risks of Virtual Commodities and Tokens -,https://www.amcm.gov.mo/files/press_releases/gap/2017/20170927_e_ae_a_a_a_ae_a_ae_e_e_aae_c_o_english.pdf,regulatory
+Malaysia (SC),SC to Regulate Offering and Trading of Digital Assets -,https://www.sc.com.my/resources/media-releases-and-announcements/sc-to-regulate-offering-and-trading-of-digital-assets,regulatory
+Malaysia (SC),Capital Markets and Services (Prescription of Securities) (Digital Currency and Digital Token) Order 2019,https://www.sc.com.my/api/documentms/download.ashx?id=d3067bf4-ba39-4bce-8dc4-1b660ff37977,regulatory
+Malaysia (SC),Public Consultation paper No. 1/2019: Proposed Regulatory Framework for the Issuance of Digital Assets Through Initial Coin Offerings (ICOs),https://www.sc.com.my/api/documentms/download.ashx?id=d3067bf4-ba39-4bce-8dc4-1b660ff37977,regulatory
+Malta (MFSA),Virtual Financial Assets Act,http://www.justiceservices.gov.mt/DownloadDocument.aspx?app=lom&itemid=12872&l=1,regulatory
+Malta (MFSA),Feedback Statement Issued Further to Industry Responses to the MFSA Consultation Paper on the Virtual Financial Assets Regulations to Be Issued Under the Virtual Financial Assets Act,https://www.mfsa.mt/wp-content/uploads/2018/12/20181024_LNFeedbackStatement.pdf,regulatory
+Malta (MFSA),Virtual Financial Assets Regulations,http://justiceservices.gov.mt/DownloadDocument.aspx?app=lp&itemid=29337&l=1,regulatory
+Malta (MFSA),Virtual Financial Assets Rulebook (Chapter 1): Virtual Financial Assets Rules for VFA Agents -,https://www.mfsa.mt/wp-content/uploads/2019/02/VFAR_Chapter1_FINAL.pdf,regulatory
+Malta (MFSA),Virtual Financial Assets Rulebook (Chapter 2): Virtual Financial Assets Rules for Issuers of VFAs,https://www.mfsa.mt/wp-content/uploads/2019/02/VFAR_Chapter2_FINAL.pdf,regulatory
+Malta (MFSA),Virtual Financial Assets Framework Frequently Asked Questions,https://www.mfsa.mt/wp-content/uploads/2019/01/20190125_VFARFAQs_v1.01.pdf,regulatory
+Malta (MFSA),Financial Instrument Test: Guidelines -,https://www.mfsa.mt/wp-content/uploads/2019/05/VFAG_FITest_1.02.pdf,regulatory
+Malta (MFSA),Guidance Notes on Cybersecurity,https://www.mfsa.mt/wp-content/uploads/2019/06/Cybersecurity-Guidance-Notes.pdf,regulatory
+Netherlands (AFM),The AFM and DNB recommend regulation of cryptos at an international level,https://www.afm.nl/en/nieuws/2019/jan/adviesrapport-crypto,regulatory
+Netherlands (AFM),Recommendations for a regulatory framework,https://www.afm.nl/~/profmedia/files/rapporten/2019/adviesrapport-crypto-eng.pdf,regulatory
+Republic of Korea (FSC),Prohibition of All Forms of ICOs –,http://www.fsc.go.kr/downManager?bbsid=BBS0030&no=120329,regulatory
+Republic of Korea (FSC),ICO Survey Results and Future Response,http://www.fsc.go.kr/downManager?bbsid=BBS0030&no=133877,regulatory
+Republic of Serbia (SC),Consultation Paper on Regulation of Cryptoassets in the Republic of Serbia -,http://www.sec.gov.rs/index.php/en/documents-en/174-consultation-paper/7115-cryptoassets-consultation-paper,regulatory
+Slovenia (SMA),Position of ATVP on ICO Consultation Paper,http://www.a-tvp.si/Documents/ENG/ATVP_ICO_position_eng.pdf,regulatory
+Thailand (SEC),Emergency Decree on Digital Asset Businesses B.E. 2561,https://www.sec.or.th/EN/Documents/ActandRoyalEnactment/RoyalEnactment/enactment-digitalasset2018.pdf,regulatory
+Thailand (SEC),Summary of the Royal Decree on the Digital Asset Businesses B.E. 2561,https://www.sec.or.th/TH/Documents/DigitalAsset/enactment_digital_2561_summary_en.pdf,regulatory
+Thailand (SEC),Public Offering of ICO (Regulatory Diagram) -,https://www.sec.or.th/EN/Pages/LawandRegulations/InitialCoinOffering.aspx,regulatory

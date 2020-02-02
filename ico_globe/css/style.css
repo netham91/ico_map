@@ -1702,22 +1702,36 @@ input:checked +#c5 {
 }
 
 .box-1{
+  border: 1px green solid;
+  color : green;
+  height: 100%;
+  border-radius: 20px;
+}
+
+.box-2{
   border: 1px red solid;
   color : red;
   height: 100%;
   border-radius: 20px;
 }
 
-.box-2{
-  border: 1px #d4d435 solid;
-  color : #d4d435;
+.box-3{
+  border: 1px #828200 solid;
+  color : #828200;
   height: 100%;
   border-radius: 20px;
 }
 
-.box-3{
+.box-4{
   border: 1px blue solid;
   color : blue;
+  height: 100%;
+  border-radius: 20px;
+}
+
+.box-5{
+  border: 1px black solid;
+  color : black;
   height: 100%;
   border-radius: 20px;
 }
@@ -1746,3 +1760,11 @@ input:checked +#c5 {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+#svg_graph {
+width: 98%;
+    margin-left: 1%
+}
+
+
+

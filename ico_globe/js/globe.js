@@ -23,6 +23,7 @@ var detailsData;
 
 var lastTime;
 var waitDelay = 3000;
+var isSpinning = true;
   
 var lineToLondon = function(d) {
   return path({"type": "LineString", "coordinates": [london, d.geometry.coordinates]});
@@ -240,7 +241,10 @@ function displayDetails(d){
   })
 
   html += "</div>";
-  height = k*50+100
+  height = k*70+100
+
+  if(height > 420)
+    height = 400
   $(".data-display").animate({
     opacity: '1',
     height: height+'px',
@@ -312,6 +316,8 @@ function dragstarted() {
 function dragended() {
    now = d3.now()
   diff = now - lastTime;
+
+  isSpinning = false;
   // if(diff>waitDelay)
   //   spin();
   // else
@@ -332,7 +338,12 @@ function dragged() {
 
 function initSwitches(){
   console.log("Toggle switch");
-  $(".switch-box input").toggle();
+ // $(".switch-box input").toggle();
+
+ $(".label").css("font-size","0px");
+ $("#sw1").attr("checked",true);
+ $(".label-l1").css("font-size","1em");
+
 }
 
 $(document).ready(function(){
@@ -356,7 +367,10 @@ $(document).on('change', ".switch-box input ", function() {
 
   fontS = $(l).css("font-size")
   
- 
+  if(isSpinning == false){
+    spin();
+    isSpinning = true;
+  }
   if(fontS == "0px"){
     $(l).css("font-size","1em") 
      console.log("grow",l,fontS);
