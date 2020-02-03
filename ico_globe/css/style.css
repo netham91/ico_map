@@ -1697,8 +1697,8 @@ input:checked +#c5 {
   background-color: black;
 }
 
-.globe-display svg{
- 
+.globe-display {
+ margin-top: 80px;
 }
 
 .box-1{
