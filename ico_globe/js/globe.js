@@ -191,11 +191,11 @@ function ready(error, world, places) {
       .on("mouseover", (d) => {
         //console.log(d);
       	var name = stripWhitespace(d.properties.name);
-         displayDetails(d);
+        displayDetails(d);
      	})
       .on("click", (d) => {
         //console.log(d);
-        //var name = stripWhitespace(d.properties.name);
+        var name = stripWhitespace(d.properties.name);
          displayDetails(d);
       })
     	.on("mouseout", (d) => {
@@ -220,7 +220,9 @@ function ready(error, world, places) {
 }
 
 
-function displayDetails(d){
+function displayDetails(obj){
+
+  const d = JSON.parse(JSON.stringify(obj));
   console.log(d);
   html = "";
   cl = d.properties.class;
@@ -241,18 +243,18 @@ function displayDetails(d){
   })
 
   html += "</div>";
-  height = k*70+100
+   heightt = k*70+100
 
-  if(height > 420)
-    height = 400
+  if(heightt > 420)
+    heightt = 400
   $(".data-display").animate({
     opacity: '1',
-    height: height+'px',
+    heightt: heightt+'px',
   }, 500, function(){
  
   } );
 
-    $(".data-display").html(html); 
+   $(".data-display").html(html); 
 
 
 }
